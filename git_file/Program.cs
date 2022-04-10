@@ -9,6 +9,7 @@ namespace git_file
             Console.WriteLine("Hello World!");
             Console.WriteLine("AAA");
             Console.WriteLine("主分支異動");
+            Console.WriteLine("BBB");
         }
     }
 }
