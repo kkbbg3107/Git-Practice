@@ -7,6 +7,7 @@ namespace git_file
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("AAA");
         }
     }
 }
